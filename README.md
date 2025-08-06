@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/cristianccd/LeetHub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0238-product-of-array-except-self](https://github.com/cristianccd/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/cristianccd/LeetHub/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/cristianccd/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/cristianccd/LeetHub/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/cristianccd/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
