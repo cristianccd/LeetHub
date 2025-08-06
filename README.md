@@ -75,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/cristianccd/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/cristianccd/LeetHub/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/cristianccd/LeetHub/tree/master/0670-maximum-swap) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/cristianccd/LeetHub/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/cristianccd/LeetHub/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
