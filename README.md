@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/cristianccd/LeetHub/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/cristianccd/LeetHub/tree/master/0013-roman-to-integer) |
+| [0670-maximum-swap](https://github.com/cristianccd/LeetHub/tree/master/0670-maximum-swap) |
 ## Recursion
 |  |
 | ------- |
@@ -67,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/cristianccd/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/cristianccd/LeetHub/tree/master/0605-can-place-flowers) |
+| [0670-maximum-swap](https://github.com/cristianccd/LeetHub/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
