@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/cristianccd/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/cristianccd/LeetHub/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/cristianccd/LeetHub/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/cristianccd/LeetHub/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/cristianccd/LeetHub/tree/master/1894-merge-strings-alternately) |
 ## Backtracking
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2384-root-equals-sum-of-children](https://github.com/cristianccd/LeetHub/tree/master/2384-root-equals-sum-of-children) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/cristianccd/LeetHub/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
