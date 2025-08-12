@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/cristianccd/LeetHub/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/cristianccd/LeetHub/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/cristianccd/LeetHub/tree/master/0067-add-binary) |
 | [0670-maximum-swap](https://github.com/cristianccd/LeetHub/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/cristianccd/LeetHub/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2383-add-two-integers](https://github.com/cristianccd/LeetHub/tree/master/2383-add-two-integers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/cristianccd/LeetHub/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cristianccd/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/cristianccd/LeetHub/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/cristianccd/LeetHub/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/cristianccd/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/cristianccd/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/cristianccd/LeetHub/tree/master/0443-string-compression) |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/cristianccd/LeetHub/tree/master/2215-finding-3-digit-even-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/cristianccd/LeetHub/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/cristianccd/LeetHub/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
